@@ -1,0 +1,23 @@
+# Secrets — never commit
+.env
+*.env
+.env.*
+!.env.example
+
+# Backups
+*.tar.gz
+backups/
+*.log
+
+# Runtime / app data
+config/homarr/appdata/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
