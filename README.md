@@ -1,4 +1,4 @@
-# Project 1 — Secure & Self-Hosted Cloud Infrastructure
+# Secure & Self-Hosted Cloud Infrastructure
 
 A hardened Ubuntu VPS configured as a secure, containerized foundation for future Agentic AI and Detection Engineering projects. This repository documents the "Stage 0" security baseline and the "Stage 1" management infrastructure: a reverse-proxied Docker stack fronted by automatic TLS, with strict firewall and OS hardening already in place.
 
